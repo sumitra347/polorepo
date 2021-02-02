@@ -30,7 +30,7 @@ s.no|s.name|s.marks
 # image
 [myimg](download.png)
 # insert code
- a=4
- b=6
- c=a+b
- print("sum of {} and {} is {}".format(a,b,c))
+  a=4
+  b=6
+  c=a+b
+  print("sum of {} and {} is {}".format(a,b,c))
