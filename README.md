@@ -25,8 +25,7 @@ the syntax for creating a link in markdown [text](url)
 [Google](https://www.google.com)
 # create table
 s.no|s.name|s.marks
-....|.....|.......
-1|ab|34
+----|-----|-----
 2|hj|67
 # image
 [myimg](download.png)
