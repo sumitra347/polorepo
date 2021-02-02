@@ -30,6 +30,7 @@ s.no|s.name|s.marks
 # image
 [myimg](download.png)
 # insert code
+
   a=4
   b=6
   c=a+b
