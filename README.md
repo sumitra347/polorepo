@@ -21,9 +21,5 @@ java is programming language and class based program developed by james gosling.
 My college name is **Andhra Loyola Institute Of Engineering and Technology**
 
 # create link
+the syntax for creating a link in markdown [text](url)
 [Google](https://www.google.com)
-# create a table
-s.no|s.name|s.mark
-....|.....|.....
-1|abc|34
-2|ghj|778
