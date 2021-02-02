@@ -25,5 +25,5 @@ My college name is **Andhra Loyola Institute Of Engineering and Technology**
 # create a table
 s.no|s.name|s.mark
 ....|.....|.....
- 1|abc|34
- 2|ghj|778
+1|abc|34
+2|ghj|778
