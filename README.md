@@ -28,7 +28,7 @@ s.no|s.name|s.marks
 ----|-----|-----
 2|hj|67
 # image
-[myimg](download.png)
+![alt myimg](download.png)
 # insert code
 
   a=4
