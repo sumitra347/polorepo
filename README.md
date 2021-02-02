@@ -23,3 +23,5 @@ My college name is **Andhra Loyola Institute Of Engineering and Technology**
 # create link
 the syntax for creating a link in markdown [text](url)
 [Google](https://www.google.com)
+# image
+[myimg](download.jpg)
